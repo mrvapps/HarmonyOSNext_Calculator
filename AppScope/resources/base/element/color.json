@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "main_bg",
+      "value": "#202020"
+    },
+    {
+      "name": "display_bg",
+      "value": "#303030"
+    },
+    {
+      "name": "display_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_default_bg",
+      "value": "#505050"
+    },
+    {
+      "name": "button_number_bg",
+      "value": "#707070"
+    },
+    {
+      "name": "button_operator_bg",
+      "value": "#FF9500"
+    },
+    {
+      "name": "button_memory_bg",
+      "value": "#606060"
+    },
+    {
+      "name": "button_clear_bg",
+      "value": "#D44A4A"
+    },
+    {
+      "name": "button_equals_bg",
+      "value": "#FF9500"
+    },
+    {
+      "name": "button_text_light",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_text_dark",
+      "value": "#FFFFFF"
+    }
+  ]
+}
